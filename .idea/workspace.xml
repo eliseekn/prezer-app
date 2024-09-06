@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcc4f9c2-f113-4c17-8b1c-8c688775c980" name="Changes" comment="Update UI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Cart/CheckoutScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Cart/CheckoutScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2W8KmyoqFDn4L5MKrfZI1nRPAGA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/eliseekn/Workspace/Prezer/prezer-client/src/screens/Commande&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/eliseekn/Workspace/Prezer/prezer-client/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/eliseekn/Workspace/Prezer/prezer-client/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screens/Commande" />
+      <recent name="$PROJECT_DIR$/src/screens/Panier" />
+      <recent name="$PROJECT_DIR$/src/navigation" />
+      <recent name="$PROJECT_DIR$/src/screens" />
+      <recent name="$PROJECT_DIR$/src/components/Cards" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screens/Cart" />
+      <recent name="$PROJECT_DIR$/src/screens/Panier" />
+      <recent name="$PROJECT_DIR$/src/screens/Boutique" />
+      <recent name="$PROJECT_DIR$/src/screens" />
+      <recent name="$PROJECT_DIR$/src/screens/FiltreRecherche" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc4f9c2-f113-4c17-8b1c-8c688775c980" name="Changes" comment="" />
+      <created>1696108934319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696108934319</updated>
+      <workItem from="1696108935348" duration="884000" />
+      <workItem from="1696109841238" duration="583000" />
+      <workItem from="1696110449535" duration="634000" />
+      <workItem from="1696111114172" duration="1764000" />
+      <workItem from="1696112901839" duration="12498000" />
+      <workItem from="1696125520976" duration="128000" />
+      <workItem from="1696125676199" duration="51000" />
+      <workItem from="1696125750005" duration="3557000" />
+      <workItem from="1696129522029" duration="436000" />
+      <workItem from="1696156332134" duration="268000" />
+      <workItem from="1696156638050" duration="11315000" />
+      <workItem from="1696177181083" duration="602000" />
+      <workItem from="1696285207866" duration="10944000" />
+      <workItem from="1696319913199" duration="3968000" />
+      <workItem from="1696363275851" duration="3173000" />
+      <workItem from="1696454402799" duration="5521000" />
+      <workItem from="1696490638001" duration="2457000" />
+      <workItem from="1696531895619" duration="10309000" />
+      <workItem from="1696580435791" duration="2408000" />
+      <workItem from="1696774761371" duration="10650000" />
+      <workItem from="1696793858827" duration="786000" />
+      <workItem from="1696794678820" duration="715000" />
+      <workItem from="1696877893965" duration="3306000" />
+      <workItem from="1696881250611" duration="1438000" />
+      <workItem from="1697055248183" duration="29000" />
+      <workItem from="1697885822454" duration="1382000" />
+      <workItem from="1714504116086" duration="6695000" />
+      <workItem from="1714540273946" duration="176000" />
+      <workItem from="1714540720618" duration="11368000" />
+      <workItem from="1714554596416" duration="18591000" />
+      <workItem from="1714626919561" duration="6834000" />
+      <workItem from="1714716964218" duration="2932000" />
+      <workItem from="1714895632875" duration="2996000" />
+      <workItem from="1715339770264" duration="4053000" />
+      <workItem from="1715950999081" duration="1112000" />
+      <workItem from="1716055416257" duration="2986000" />
+      <workItem from="1716200883921" duration="25000" />
+      <workItem from="1716538099310" duration="66000" />
+      <workItem from="1717489150750" duration="6740000" />
+      <workItem from="1717501088738" duration="325000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialize project&#10;Replace default splash screen">
+      <option name="closed" value="true" />
+      <created>1696111857139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696111857139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialize project&#10;Replace default splash screen">
+      <option name="closed" value="true" />
+      <created>1696111861414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696111861414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add custom fonts&#10;Add onboarding screens&#10;Setup custom theme colors">
+      <option name="closed" value="true" />
+      <created>1696129094911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696129094911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Configuration du thème&#10;Ajout des écrans de l'onboarding">
+      <option name="closed" value="true" />
+      <created>1696129743297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696129743298</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mise en place de la navigation bottom&#10;Mise en place des écrans de commandes et favoris">
+      <option name="closed" value="true" />
+      <created>1696167867108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696167867108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mise en place de la navigation bottom&#10;Mise en place des écrans de commandes et favoris">
+      <option name="closed" value="true" />
+      <created>1696167936723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696167936723</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mise en place de integration de l'écran d'accueil">
+      <option name="closed" value="true" />
+      <created>1696323856561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696323856561</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Integration des écrans de recherche">
+      <option name="closed" value="true" />
+      <created>1696366445732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696366445732</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Integration des écrans de recherche">
+      <option name="closed" value="true" />
+      <created>1696460280490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696460280490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Integration des écrans de recherche">
+      <option name="closed" value="true" />
+      <created>1696460300883</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696460300883</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Integration de l'écran de filtres de recherche">
+      <option name="closed" value="true" />
+      <created>1696493080376</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493080376</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Integration de l'écran de filtres de recherche">
+      <option name="closed" value="true" />
+      <created>1696542582726</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696542582726</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Suppression du éléments non nécessaire">
+      <option name="closed" value="true" />
+      <created>1696545960049</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696545960049</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1696618230179</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696618230179</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactoring">
+      <option name="closed" value="true" />
+      <created>1696779068707</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696779068708</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Intégration de la page des détails d'un article">
+      <option name="closed" value="true" />
+      <created>1696785381433</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696785381433</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Intégration de la page panier">
+      <option name="closed" value="true" />
+      <created>1696797024340</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696797024340</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Intégration de la page panier">
+      <option name="closed" value="true" />
+      <created>1696882575363</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696882575363</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix navigation">
+      <option name="closed" value="true" />
+      <created>1696882679927</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696882679927</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Intégration de l'écran de paiement">
+      <option name="closed" value="true" />
+      <created>1697054922243</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697054922243</updated>
+    </task>
+    <task id="LOCAL-00021" summary="N/A">
+      <option name="closed" value="true" />
+      <created>1697891138062</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697891138062</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update UI&#10;Replace map by search location input&#10;Fix screen navigation">
+      <option name="closed" value="true" />
+      <created>1714511933113</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714511933113</updated>
+    </task>
+    <task id="LOCAL-00023" summary="IDE changes">
+      <option name="closed" value="true" />
+      <created>1714514277825</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714514277825</updated>
+    </task>
+    <task id="LOCAL-00024" summary="IDE changes">
+      <option name="closed" value="true" />
+      <created>1714514477258</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1714514477258</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update UI&#10;Re-add map in PaiementScreen.tsx&#10;Add zustand package&#10;Refactor code">
+      <option name="closed" value="true" />
+      <created>1714545568359</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1714545568359</updated>
+    </task>
+    <task id="LOCAL-00026" summary="IDE update">
+      <option name="closed" value="true" />
+      <created>1714545588189</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714545588190</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update UI&#10;Adding API data">
+      <option name="closed" value="true" />
+      <created>1714576813139</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1714576813139</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update UI&#10;Add cart management">
+      <option name="closed" value="true" />
+      <created>1714633932770</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1714633932770</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding CommandeScreen.tsx">
+      <option name="closed" value="true" />
+      <created>1714719823877</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1714719823877</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fix orders">
+      <option name="closed" value="true" />
+      <created>1714911846757</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1714911846757</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Refactor code">
+      <option name="closed" value="true" />
+      <created>1716058325368</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716058325368</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update UI">
+      <option name="closed" value="true" />
+      <created>1717495955847</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1717495955847</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update UI">
+      <option name="closed" value="true" />
+      <created>1717495971088</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1717495971088</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initialize project&#10;Replace default splash screen" />
+    <MESSAGE value="Add custom fonts&#10;Add onboarding screens&#10;Setup custom theme colors" />
+    <MESSAGE value="Configuration du thème&#10;Ajout des écrans de l'onboarding" />
+    <MESSAGE value="Mise en place de la navigation bottom&#10;Mise en place des écrans de commandes et favoris" />
+    <MESSAGE value="Mise en place de integration de l'écran d'accueil" />
+    <MESSAGE value="Integration des écrans de recherche" />
+    <MESSAGE value="Integration de l'écran de filtres de recherche" />
+    <MESSAGE value="Suppression du éléments non nécessaire" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Intégration de la page des détails d'un article" />
+    <MESSAGE value="Intégration de la page panier" />
+    <MESSAGE value="Fix navigation" />
+    <MESSAGE value="Intégration de l'écran de paiement" />
+    <MESSAGE value="N/A" />
+    <MESSAGE value="Update UI&#10;Replace map by search location input&#10;Fix screen navigation" />
+    <MESSAGE value="IDE changes" />
+    <MESSAGE value="Update UI&#10;Re-add map in PaiementScreen.tsx&#10;Add zustand package&#10;Refactor code" />
+    <MESSAGE value="IDE update" />
+    <MESSAGE value="Update UI&#10;Adding API data" />
+    <MESSAGE value="Update UI&#10;Add cart management" />
+    <MESSAGE value="Adding CommandeScreen.tsx" />
+    <MESSAGE value="Fix orders" />
+    <MESSAGE value="Refactor code" />
+    <MESSAGE value="Update UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update UI" />
+  </component>
+</project>
